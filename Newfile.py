@@ -1,1 +1,2 @@
-"this is a new file program"
+"this is erased line"
+this is a second line program
